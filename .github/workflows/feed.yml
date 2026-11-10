@@ -16,7 +16,7 @@ jobs:
 
       - name: Hent feed fra Shopify
         run: |
-          curl -sS --fail --compressed -L \
+          curl -sS --fail --compressed -L --retry 3 --retry-delay 60 \
             -A "rolighverdag-feed/1.0 (+https://github.com/Pilsgaard/rolighverdag-feed)" \
             -o feed.xml "https://rolighverdag.dk/collections/AffiliatePartnerAds?view=xml"
 
