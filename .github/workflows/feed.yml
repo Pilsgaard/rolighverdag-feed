@@ -1,0 +1,46 @@
+name: Opdater Partner-ads-feed
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # hver morgen kl. 05/06 dansk tid
+  workflow_dispatch: # "Run workflow"-knap til manuel kørsel
+
+permissions:
+  contents: write
+
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Hent feed fra Shopify
+        run: |
+          curl -sS --fail --compressed -L \
+            -A "rolighverdag-feed/1.0 (+https://github.com/Pilsgaard/rolighverdag-feed)" \
+            -o feed.xml "https://rolighverdag.dk/collections/AffiliatePartnerAds?view=xml"
+
+      - name: Tjek at feedet er gyldig XML med produkter
+        run: |
+          python3 - <<'PY'
+          import sys, xml.etree.ElementTree as ET
+          root = ET.parse("feed.xml").getroot()
+          antal = len(root.findall("produkt"))
+          print(f"Produkter i feedet: {antal}")
+          if root.tag != "produkter" or antal < 1:
+              sys.exit("Feedet er tomt eller har forkert format - lægger det ikke op")
+          PY
+
+      - name: Tilføj tidsstempel og gem
+        run: |
+          ts=$(TZ=Europe/Copenhagen date '+%Y-%m-%d %H:%M')
+          sed -i "1a <!-- Opdateret: $ts -->" feed.xml
+          mv feed.xml partnerads.xml
+
+      - name: Commit og push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add partnerads.xml
+          git commit -m "Feed opdateret $(TZ=Europe/Copenhagen date '+%Y-%m-%d %H:%M')" || exit 0
+          git push
