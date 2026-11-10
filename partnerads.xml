@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Opdateret: 2026-11-10 16:50 -->
+<produkter>
+  <produkt>
+        <kategorinavn>Timeglas</kategorinavn>
+        <brand>Rolig Hverdag</brand>
+        <produktid>53046775447895</produktid>
+        <ean></ean>
+        <produktnavn>FlipTimer™ - Hvid</produktnavn>
+        <farve>Hvid</farve>
+        <produktbeskrivelse><![CDATA[Timeren skaber tydelige og trygge rammer i hverdagen, så I undgår mange af de små diskussioner.Når tiden bliver synlig, bliver det lettere for barnet at forstå og acceptere, hvornår det skal starte og slutte en aktivitet.Det giver færre konflikter og flere oplevelser af succes for dit barn.Opgaver som lektier og læsning bliver mere overskuelige, fordi barnet selv kan følge med og se, hvor lang tid der er tilbage.Samtidig fungerer timeren helt uden apps og forstyrrelser.Det gør den nem at bruge i alle situationer – og hjælper med at skabe mere ro i hverdagen.]]></produktbeskrivelse>
+        <pris>399.00</pris>
+        <gammelpris>399.00</gammelpris>
+        <vareurl>https://rolighverdag.dk/products/fliptimer?variant=53046775447895</vareurl>
+        <billedurl>https://rolighverdag.dk/cdn/shop/files/Produkt_10_-_Faerre_konflikter_-_Mere_ro._Flip_Timer_5578de57-9898-440d-b2f8-5ef4c40cebc1_1024x1024.jpg?v=1786301123</billedurl>
+        <lagerstatus>På lager</lagerstatus>
+        <leveringstid>1-2 hverdage</leveringstid>
+        <fragt>29</fragt>
+      </produkt>
+    <produkt>
+        <kategorinavn>Timeglas</kategorinavn>
+        <brand>Rolig Hverdag</brand>
+        <produktid>53046775415127</produktid>
+        <ean></ean>
+        <produktnavn>FlipTimer™ - Sort</produktnavn>
+        <farve>Sort</farve>
+        <produktbeskrivelse><![CDATA[Timeren skaber tydelige og trygge rammer i hverdagen, så I undgår mange af de små diskussioner.Når tiden bliver synlig, bliver det lettere for barnet at forstå og acceptere, hvornår det skal starte og slutte en aktivitet.Det giver færre konflikter og flere oplevelser af succes for dit barn.Opgaver som lektier og læsning bliver mere overskuelige, fordi barnet selv kan følge med og se, hvor lang tid der er tilbage.Samtidig fungerer timeren helt uden apps og forstyrrelser.Det gør den nem at bruge i alle situationer – og hjælper med at skabe mere ro i hverdagen.]]></produktbeskrivelse>
+        <pris>399.00</pris>
+        <gammelpris>399.00</gammelpris>
+        <vareurl>https://rolighverdag.dk/products/fliptimer?variant=53046775415127</vareurl>
+        <billedurl>https://rolighverdag.dk/cdn/shop/files/Produkt_10_-_Faerre_konflikter_-_Mere_ro._Flip_Timer_5578de57-9898-440d-b2f8-5ef4c40cebc1_1024x1024.jpg?v=1786301123</billedurl>
+        <lagerstatus>På lager</lagerstatus>
+        <leveringstid>1-2 hverdage</leveringstid>
+        <fragt>29</fragt>
+      </produkt>
+    </produkter>
