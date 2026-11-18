@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Opdateret: 2026-11-17 13:52 -->
+<!-- Opdateret: 2026-11-18 13:45 -->
 <produkter>
   <produkt>
         <kategorinavn>Timeglas</kategorinavn>
@@ -29,6 +29,54 @@
         <gammelpris>399.00</gammelpris>
         <vareurl>https://rolighverdag.dk/products/fliptimer?variant=53046775415127</vareurl>
         <billedurl>https://rolighverdag.dk/cdn/shop/files/Produkt_10_-_Faerre_konflikter_-_Mere_ro._Flip_Timer_5578de57-9898-440d-b2f8-5ef4c40cebc1_1024x1024.jpg?v=1786301123</billedurl>
+        <lagerstatus>På lager</lagerstatus>
+        <leveringstid>1-2 hverdage</leveringstid>
+        <fragt>29</fragt>
+      </produkt>
+    <produkt>
+        <kategorinavn>Timeglas</kategorinavn>
+        <brand>Rolig Hverdag</brand>
+        <produktid>55702611788119</produktid>
+        
+        <produktnavn>ColorTimer™ - Grøn</produktnavn>
+        <farve>Grøn</farve>
+        <produktbeskrivelse><![CDATA[For små børn kan tid være svært at forstå, især når de endnu ikke kan klokken eller har styr på minutterne.ColorTimer gør tiden synlig med farver. Det farvede felt bliver mindre, efterhånden som tiden går, så barnet selv kan se, hvor meget tid der er tilbage.Når barnet kan følge med i, at tiden bliver mindre, bliver det lettere at forstå, hvad “snart” betyder. Det giver barnet mulighed for at forberede sig på, at noget skal slutte, eller at noget nyt skal begynde.ColorTimer kan bruges i mange af hverdagens små situationer, for eksempel til leg, skærmtid, oprydning, rutiner og rolige stunder sammen.Når barnet selv kan følge tiden, bliver det lettere at forstå, hvad der skal ske, og hvornår. Samtidig slipper du for hele tiden at forklare, hvor mange minutter der er tilbage.ColorTimer gør noget så abstrakt som tid konkret og overskueligt for de mindste.]]></produktbeskrivelse>
+        <pris>399.00</pris>
+        <gammelpris>399.00</gammelpris>
+        <vareurl>https://rolighverdag.dk/products/colortimer?variant=55702611788119</vareurl>
+        <billedurl>https://rolighverdag.dk/cdn/shop/files/Produkt_10_-_Faerre_konflikter_-_Mere_ro._Flip_Timer_2_1024x1024.jpg?v=1787983154</billedurl>
+        <lagerstatus>På lager</lagerstatus>
+        <leveringstid>1-2 hverdage</leveringstid>
+        <fragt>29</fragt>
+      </produkt>
+    <produkt>
+        <kategorinavn>Timeglas</kategorinavn>
+        <brand>Rolig Hverdag</brand>
+        <produktid>55702611820887</produktid>
+        
+        <produktnavn>ColorTimer™ - Lyserød</produktnavn>
+        <farve>Lyserød</farve>
+        <produktbeskrivelse><![CDATA[For små børn kan tid være svært at forstå, især når de endnu ikke kan klokken eller har styr på minutterne.ColorTimer gør tiden synlig med farver. Det farvede felt bliver mindre, efterhånden som tiden går, så barnet selv kan se, hvor meget tid der er tilbage.Når barnet kan følge med i, at tiden bliver mindre, bliver det lettere at forstå, hvad “snart” betyder. Det giver barnet mulighed for at forberede sig på, at noget skal slutte, eller at noget nyt skal begynde.ColorTimer kan bruges i mange af hverdagens små situationer, for eksempel til leg, skærmtid, oprydning, rutiner og rolige stunder sammen.Når barnet selv kan følge tiden, bliver det lettere at forstå, hvad der skal ske, og hvornår. Samtidig slipper du for hele tiden at forklare, hvor mange minutter der er tilbage.ColorTimer gør noget så abstrakt som tid konkret og overskueligt for de mindste.]]></produktbeskrivelse>
+        <pris>399.00</pris>
+        <gammelpris>399.00</gammelpris>
+        <vareurl>https://rolighverdag.dk/products/colortimer?variant=55702611820887</vareurl>
+        <billedurl>https://rolighverdag.dk/cdn/shop/files/Produkt_10_-_Faerre_konflikter_-_Mere_ro._Flip_Timer_2_1024x1024.jpg?v=1787983154</billedurl>
+        <lagerstatus>På lager</lagerstatus>
+        <leveringstid>1-2 hverdage</leveringstid>
+        <fragt>29</fragt>
+      </produkt>
+    <produkt>
+        <kategorinavn>Timeglas</kategorinavn>
+        <brand>Rolig Hverdag</brand>
+        <produktid>55702611853655</produktid>
+        
+        <produktnavn>ColorTimer™ - Blå</produktnavn>
+        <farve>Blå</farve>
+        <produktbeskrivelse><![CDATA[For små børn kan tid være svært at forstå, især når de endnu ikke kan klokken eller har styr på minutterne.ColorTimer gør tiden synlig med farver. Det farvede felt bliver mindre, efterhånden som tiden går, så barnet selv kan se, hvor meget tid der er tilbage.Når barnet kan følge med i, at tiden bliver mindre, bliver det lettere at forstå, hvad “snart” betyder. Det giver barnet mulighed for at forberede sig på, at noget skal slutte, eller at noget nyt skal begynde.ColorTimer kan bruges i mange af hverdagens små situationer, for eksempel til leg, skærmtid, oprydning, rutiner og rolige stunder sammen.Når barnet selv kan følge tiden, bliver det lettere at forstå, hvad der skal ske, og hvornår. Samtidig slipper du for hele tiden at forklare, hvor mange minutter der er tilbage.ColorTimer gør noget så abstrakt som tid konkret og overskueligt for de mindste.]]></produktbeskrivelse>
+        <pris>399.00</pris>
+        <gammelpris>399.00</gammelpris>
+        <vareurl>https://rolighverdag.dk/products/colortimer?variant=55702611853655</vareurl>
+        <billedurl>https://rolighverdag.dk/cdn/shop/files/Produkt_10_-_Faerre_konflikter_-_Mere_ro._Flip_Timer_2_1024x1024.jpg?v=1787983154</billedurl>
         <lagerstatus>På lager</lagerstatus>
         <leveringstid>1-2 hverdage</leveringstid>
         <fragt>29</fragt>
